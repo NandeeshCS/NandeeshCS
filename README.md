@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NandeeshCS
 - 👀 I’m interested in python
-- 🌱 I’m currently learning .data science
+- 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me nandeeshpharma@gmail.com
 
